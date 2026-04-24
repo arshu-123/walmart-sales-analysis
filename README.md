@@ -1,3 +1,3 @@
 # walmart-sales-analysis
 ## Dashboard Preview
-![Dashboard](aadhaar.jpg)
+![Dashboard](Walmart Sales Performance Analysis.png)
